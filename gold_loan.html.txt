@@ -1,0 +1,106 @@
+<html>
+<title> GOLD LOAN INTREST RATE </title>
+<h1 align="center"> Gold Loan Interest Rates </h1>
+<h2> Gold Loan Details </h2>
+<table align="center">
+<style>table,th,td{border:1px solid black;}</style>
+	<tr>
+	    <th> Interest Rate </th>
+	    <td> 7.35% p.a. onwards </td>
+	</tr>
+	<tr>
+	    <th> Loan Amount </th>
+	    <td> Up to Rs.1 crore </td>
+	</tr>
+	<tr>
+	    <th> Loan Tenure </th>
+	    <td> Up to 20 years </td>
+	</tr>
+	<tr>
+	    <th> Processing Fee </th>
+	    <td> 0.5% the loan amount + GST onwards </td>
+	</tr>
+</table>
+
+<h2> Gold Loan Interest Rates Comparison 2022 </h2>
+
+<table align="center">
+
+<style>table,th,td{border:1px solid black;}</style>
+	
+	<tr>
+	    <th> BANK NAME </th>
+	    <td> INTEREST RATE </td>
+	    <td> Loan Amount </td>
+	    <td> Ban link </td>
+	</tr>
+	<tr>
+		<th> Axis Bank </th>
+		<td> 13.50% p.a.to 16.95% p.a. </td>
+		<td> Rs.25,001 to Rs.25 lakh </td>
+		<td>https://www.axisbank.com/retail/loans/gold-loan/features-benefits</td>
+	</tr>
+	<tr>
+		<th> State Bank of India </th>
+		<td> 7.00% p.a. onwards </td>
+		<td> Rs.20,000 to Rs.50 lakh </td>
+		<td>https://sbi.co.in/web/personal-banking/loans/gold-loan/personal-gold-loans</td>
+	</tr>
+	<tr>
+		<th> HDFC Bank </th>
+		<td> 11% p.a. to 16% p.a. </td>
+		<td> Rs.10,000 onwards </td>
+		<td>https://www.hdfcbank.com/personal/borrow/loan-against-assets/gold-loan/fees-and-charges</td>
+	</tr>
+	<tr>
+		<th> Muthoot </th>
+		<td> 12% p.a. to 26% p.a. </td>
+		<td> Rs.1,500 onwards </td>
+		<td>https://www.muthootfinance.com/gold-loan/interest-rate</td>
+	</tr>
+	<tr>
+		<th> IndusInd Bank </th>
+		<td> 11.50% p.a. - 16.00% p.a. </td>
+		<td> Up to Rs.10 lakh </td>
+		<td>https://www.indusind.com/in/en/personal/loans/gold-loan.html</td>
+	</tr>
+	<tr>
+		<th> Kotak Mahindra Bank </th>
+		<td> 10.00% p.a. - 17.00% p.a. </td>
+		<td> Rs.20,000 to Rs.1.5 crore </td>
+		<td>https://www.kotak.com/en/personal-banking/loans/gold-loan.html</td>
+	</tr>
+	<tr>
+		<th> Manappuram </th>
+		<td> 9.90% p.a. to 24.00% p.a. </td>
+		<td> As per the requirement of the scheme </td>
+		<td>https://www.manappuram.com/campaign/ngls-spcl-gn-v4/?utm_source=google&utm_medium=search&utm_campaign=new_gold_loan_scheme-search-lead_gen-south_india-feb22&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jf7PhWAOKATWowyXYDzJGLkgTdIhDVIpQGA2Zd9C72zfJBzTup9y2IaAjLWEALw_wcB</td>
+	</tr>
+	<tr>
+		<th> Punjab National Bank </th>
+		<td> 7.70% p.a. to 8.75% p.a. </td>
+		<td> Rs.25,000 to Rs.10 lakh </td>
+		<td> https://www.pnbindia.in/personal.html </td>
+	</tr>
+	<tr>
+		<th> Canara Bank </th>
+		<td> 7.35% p.a. </td>
+		<td> https://canarabank.com/User_page.aspx?menulevel=1&menuid=2&CatID=2 </td>
+		<td> Rs.5,000 to Rs.35 lakh </td>
+	</tr>
+	
+	<tr>
+		<th> Bank of Baroda </th>
+		<td> 9.00% p.a. - 9.15% p.a. </td>
+		<td> Up to Rs.25 lakh </td>
+		<td> https://www.bankofbaroda.in/personal-banking/loans/personal-loan </td>
+	</tr>
+	<tr>
+		<th> Bank of Maharashtra </th>
+		<td> 7.10% p.a. </td>
+		<td> Up to Rs.20 lakh </td>
+		<td> https://bankofmaharashtra.in/ </td>
+	</tr>
+
+
+</html>

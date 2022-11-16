@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title> BEST BANKING INFO </title>
+
+<form action="C:\Users\Rithika P\OneDrive\Desktop\EEE\M3\HACKETHON\fixed_deposit_TEXT.txt" methon="POST">
+ <button type="submit"> FIXED DEPOSIT INTREST RATE </button>
+<form action="C:\Users\Rithika P\OneDrive\Desktop\EEE\M3\HACKETHON\gold_loan.txt" methon="POST">
+ <button type="submit"> GOLD LOAN INTREST RATE </button>
+<form action="C:\Users\Rithika P\OneDrive\Desktop\EEE\M3\HACKETHON\housing_loan_TEXT.txt" methon="POST">
+ <button type="submit"> HOUSING LOAN INTREST RATE </button>
+
+
+</form>
+</html>
+
